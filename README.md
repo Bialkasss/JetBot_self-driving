@@ -6,10 +6,6 @@
 - Dataset: Images paired with control commands for training the model.
 - Evaluation: The model’s performance is evaluated using test data to assess its ability to make accurate control predictions.
 
-## Results:
-> IN WORK
->
-
 
 #### License
 This project is licensed under the MIT License - see the LICENSE file for details.
